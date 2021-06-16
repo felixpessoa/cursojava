@@ -1,5 +1,4 @@
 # cursojava
-#
 #         Aqui irei compartilha meus projetos durante o curso java
 
 
