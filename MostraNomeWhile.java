@@ -6,8 +6,10 @@ public class MostraNomeWhile{
 		Scanner scanner = new Scanner(System.in);
 					System.out.println("Digite nome:");
 						String nome = scanner.nextLine();
+					System.out.println("Digite Quantas vezes quer  ver seu nome: ");
+						int quantidade = scanner.nextInt();
 						
-		while(i < 11){
+		while(i < quantidade){
 			System.out.print(i+ " ");
 			System.out.println(nome);
 			
